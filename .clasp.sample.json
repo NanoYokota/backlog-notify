@@ -1,0 +1,13 @@
+{
+  "scriptId":"Script ID",
+  "rootDir":"/home/your_path/backlog-notify",
+  "filePushOrder": [
+    "/home/your_path/backlog-notify/env.js",
+    "/home/your_path/backlog-notify/class.js",
+    "/home/your_path/backlog-notify/global.js",
+    "/home/your_path/backlog-notify/chatwork.js",
+    "/home/your_path/backlog-notify/code.js",
+    "/home/your_path/backlog-notify/monthly.js",
+    "/home/your_path/backlog-notify/debug.js"
+  ]
+}
